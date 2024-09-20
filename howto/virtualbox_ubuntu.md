@@ -86,7 +86,7 @@ On windows download [alpaca proxy](https://github.com/samuong/alpaca/releases) f
  
 ### create systemd unit file with config
 
-Restart vm login as user bosch and open terminal.
+Restart vm login as user brinkman and open terminal.
 
 ```bash
 $ sudo bash
