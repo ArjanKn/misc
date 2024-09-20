@@ -8,4 +8,4 @@ This repository collects various settings, scripts, configuration, howtos in res
 ## HOWTO
 [markdown + plantuml + pandoc => dox / pdf / etc](howto/pandoc.md)
 
-[virtualbox ubuntu image behind company firewall and proxy](virtualbox_ubuntu.md)
+[virtualbox ubuntu image behind company firewall and proxy](howto/virtualbox_ubuntu.md)
