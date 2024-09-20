@@ -11,10 +11,10 @@ Using pandoc to generate documents from markdown including plantuml diagrams.
  
 ## installation (linux)
 
-pandoc: download tar.gz and extract into ~/.local/
-pandoc-lua-filters: extract distribution file in pandoc data-dir.
-plantuml.jar: download and place in appropriate location.
-java: use package manager.
+- pandoc: download tar.gz and extract into ~/.local/
+- pandoc-lua-filters: extract distribution file in pandoc data-dir.
+- plantuml.jar: download and place in appropriate location.
+- java: use package manager.
 
 plantuml might need other depencies like dot and grapviz. Check the versions.
 
