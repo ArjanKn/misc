@@ -11,3 +11,5 @@ This repository collects various settings, scripts, configuration, howtos in res
 [virtualbox ubuntu image behind company firewall and proxy](howto/virtualbox_ubuntu.md)
 
 [gitconfig](howto/gitconfig.md)
+
+[WSL2 ssh access from LAN](howto/wsl2.md)
