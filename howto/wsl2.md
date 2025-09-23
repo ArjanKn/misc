@@ -1,6 +1,6 @@
 # WSL2 Network settings
 
-WSL2 has a [`mirrord`](https://learn.microsoft.com/en-us/windows/wsl/networking#mirrored-mode-networking) mode networking. This mode is the recommended mode.
+WSL2 has a [`mirrored`](https://learn.microsoft.com/en-us/windows/wsl/networking#mirrored-mode-networking) mode networking. This mode is the recommended mode.
 
 It allows to connect to Linux services direct from windows host using the localhost address (`127.0.0.1`) e.g.: `ssh localhost` ssh to the WSL2 Linux instance.
 
