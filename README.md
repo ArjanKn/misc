@@ -13,3 +13,5 @@ This repository collects various settings, scripts, configuration, howtos in res
 [gitconfig](howto/gitconfig.md)
 
 [WSL2 ssh access from LAN](howto/wsl2.md)
+
+[Claude-code plugins and additional tools](howto/claude-code-plugins.md)
